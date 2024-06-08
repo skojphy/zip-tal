@@ -8,15 +8,16 @@
 <style>
 	h1 {
 		font-size: x-large;
-		margin: 50px;
+		margin: 50px auto;
 	}
 	div {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		width: 70%;
 	}
 	a {
-		width: 70%;
+		width: 100%;
 		height: 50px;
 		background-color: var(--color-theme-1);
 		color: var(--color-bg-0);
