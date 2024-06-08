@@ -37,6 +37,6 @@ export const quizs = [
 	{
 		text: ['저 우편함만 빛나고 있어.', '한번 열어 볼까?'],
 		image: ['q19'],
-		answer: '1234'
+		answer: '514'
 	}
 ];
