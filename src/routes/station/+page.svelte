@@ -41,7 +41,7 @@
 		if (checkAnswer() && currentNumber === 3) window.location = './market';
 		else if (checkAnswer()) currentNumber++;
 		else {
-			window.alert('다시 생각해 보세요.');
+			window.alert('다시 생각해 보자.');
 		}
 		answer = '';
 	};

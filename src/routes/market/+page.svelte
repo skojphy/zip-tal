@@ -54,7 +54,7 @@
 				behavior: 'smooth'
 			});
 		} else {
-			window.alert('다시 생각해 보세요.');
+			window.alert('다시 생각해 보자.');
 		}
 		answer = '';
 	};
