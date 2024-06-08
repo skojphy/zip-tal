@@ -21,7 +21,7 @@ export const quizs = [
 	},
 	{
 		text: ['소화기 안내판 아래에', '뭔가 있는 것 같은데?'],
-		image: ['q6'],
+		image: ['q20', 'q6'],
 		answer: '6389'
 	},
 	{

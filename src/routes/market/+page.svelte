@@ -15,6 +15,7 @@
 	import image_q17 from '$lib/images/q17.png';
 	import image_q18 from '$lib/images/q18.png';
 	import image_q19 from '$lib/images/q19.png';
+	import image_q20 from '$lib/images/q20.jpeg';
 
 	let answer;
 
@@ -37,7 +38,8 @@
 		q16: { src: image_q16, alt: '문제16' },
 		q17: { src: image_q17, alt: '문제17' },
 		q18: { src: image_q18, alt: '문제18' },
-		q19: { src: image_q19, alt: '문제19' }
+		q19: { src: image_q19, alt: '문제19' },
+		q20: { src: image_q20, alt: '문제20' }
 	};
 
 	const checkAnswer = () => {
